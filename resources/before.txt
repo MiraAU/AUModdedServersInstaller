@@ -1,0 +1,1 @@
+This installer will install modded Among Us servers. Please make sure Among Us is fully closed before installing.
